@@ -1,17 +1,17 @@
 # Sayef Iqbal
 
-[![](https://img.shields.io/badge/Website-red)](https://sayefiqb.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sayef-iqbal/)
 ![](https://komarev.com/ghpvc/?username=sayefiqb&style=flat-square&color=blue)
 
 ### Experience
-Hi, I am a DevOps Engineer and a graduate student at Columbia University. As a DevOps Engineer I am responsible for managing infrastructure in AWS cloud, instrumenting applications in Kubernetes and improving CICD pipelines. I truly enjoy building applications in [Serverless](https://aws.amazon.com/serverless/) and one of my favourite applications to learn serverless is [Servelesspresso](https://serverlessland.com/reinvent2021/serverlesspresso). Apart from these, I love playing cricket and watching movies.
+Hi, I am a Senior DevOps Engineer and a graduate student at Columbia University. As a DevOps Engineer I am responsible for managing infrastructure in AWS cloud, instrumenting applications in Kubernetes and improving CICD pipelines. I truly enjoy building applications in [Serverless](https://aws.amazon.com/serverless/) and one of my favourite applications to learn serverless is [Servelesspresso](https://serverlessland.com/reinvent2021/serverlesspresso). Apart from these, I love playing cricket and watching movies.
 
 
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <img width="40" src="./veea.jpeg" alt="Veea Inc."></img> | [Veea Inc.](https://www.veea.com/) | DevOps Engineer | 2021-Current |
+| <img width="40" height="15" src="./docgo.png" alt="DocGo"></img> | [DocGo](https://www.docgo.com/) | Senior DevOps Engineer | 2023-current|
+| <img width="40" src="./veea.jpeg" alt="Veea Inc."></img> | [Veea Inc.](https://www.veea.com/) | DevOps Engineer | 2021-2023|
 | <img width="40" src="./asg.png" alt="ACORD Solutions Group"></img> | [ACORD Solutions Group](https://www.acordsolutions.com/) | DevOps Engineer | 2020-2021 |
 | <img width="40" src="./asg.png" alt="ACORD Solutions Group"></img> | [ACORD Solutions Group](https://www.acordsolutions.com/) | Software Developer Intern| 2020 |
 
@@ -45,6 +45,6 @@ Hi, I am a DevOps Engineer and a graduate student at Columbia University. As a D
 ### Favourite IDEs
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayefiqb&show_icons=true&hide=stars,issues" alt="sayefqb" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayefiqb&show_icons=true&hide=stars,issues" alt="sayefqb" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayefiqb&show_icons=true&locale=en&layout=compact" alt="sayefiqb" /></p>
