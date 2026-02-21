@@ -10,7 +10,8 @@ Hi, I am a Senior DevOps Engineer and a graduate student at Columbia University.
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <img width="40" height="15" src="./docgo.png" alt="DocGo"></img> | [DocGo](https://www.docgo.com/) | Senior DevOps Engineer | 2023-current|
+| <img width="40" height="15" src="./docgo.png" alt="DocGo"></img> | [DocGo](https://www.docgo.com/) | DevOps Manager | 2025-current |
+| <img width="40" height="15" src="./docgo.png" alt="DocGo"></img> | [DocGo](https://www.docgo.com/) | Senior DevOps Engineer | 2023-2025 |
 | <img width="40" src="./veea.jpeg" alt="Veea Inc."></img> | [Veea Inc.](https://www.veea.com/) | DevOps Engineer | 2021-2023|
 | <img width="40" src="./asg.png" alt="ACORD Solutions Group"></img> | [ACORD Solutions Group](https://www.acordsolutions.com/) | DevOps Engineer | 2020-2021 |
 | <img width="40" src="./asg.png" alt="ACORD Solutions Group"></img> | [ACORD Solutions Group](https://www.acordsolutions.com/) | Software Developer Intern| 2020 |
